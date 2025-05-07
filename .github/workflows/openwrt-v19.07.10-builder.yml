@@ -27,7 +27,7 @@ env:
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: false
   TZ: Asia/Shanghai
-  SSH_ACTIONS: false
+  SSH_ACTIONS: true
   
 jobs:
   build:
